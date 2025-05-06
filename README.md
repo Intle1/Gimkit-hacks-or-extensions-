@@ -1,2 +1,2 @@
 # Gimkit-hacks-or-extensions-
-Cool
+either go crazy with hacks or make the expereince smooth and comfertable
